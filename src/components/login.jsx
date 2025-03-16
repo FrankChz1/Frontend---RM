@@ -11,7 +11,7 @@ const Login = () => {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-r from-[#FF5000] to-[#FF9000]">
+    <div className="flex items-center justify-center min-h-screen bg-gradient-to-r from-[#DBDBDB] to-[#FF9000]">
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-sm w-full">
         <h2 className="text-3xl font-semibold text-center text-[#FF5000] mb-6">
           Iniciar Sesión
